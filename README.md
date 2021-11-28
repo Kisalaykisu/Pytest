@@ -5,9 +5,9 @@ The pytest framework makes writing tiny tests simple, but it can also handle com
 
 Step 1) Kindly create virtual environment.
 
-## Step 2) Activate the virtual environment
+Step 2) Activate the virtual environment
 
-## Step 3) kindly execute your test:
+Step 3) kindly execute your test:
          a) pytest 
            (This will print your execution and generate the report of your test function)
           

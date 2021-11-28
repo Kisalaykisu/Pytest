@@ -47,3 +47,5 @@ Step 3) kindly execute your test:
           h) To get a list of the slowest 10 test durations over 1.0s long:
              
              pytest --durations=10 --durations-min=1.0  # By default, pytest will not show test durations that are too small (<0.005s) unless -vv is passed on the command-line.
+             
+             

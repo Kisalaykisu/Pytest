@@ -4,7 +4,7 @@ setup(
     name="src",
     version="0.0.1",
     description="its a mlops package", 
-    author="Akhil",
+    author="Kisalay",
     packages=find_packages(),
     license="MIT",
 )

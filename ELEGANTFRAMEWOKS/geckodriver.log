@@ -1,0 +1,16 @@
+1638344208578	geckodriver	INFO	Listening on 127.0.0.1:59416
+1638344211625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59417" "-no-remote" "-profile" "C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileSqlBOH"
+1638344212185	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileSqlBOH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59417/devtools/browser/c25c731b-98cb-4caf-ab1e-ec0b27b40e3f
+1638344214257	Marionette	INFO	Listening on port 59424
+1638344214302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1638344216437	Marionette	INFO	Stopped listening on port 59424
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,62 @@
+1638346189268	geckodriver	INFO	Listening on 127.0.0.1:55542
+1638346192304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55543" "-no-remote" "-profile" "C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileGUYhtP"
+1638346192592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileGUYhtP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55543/devtools/browser/1fd107db-2645-482f-b453-1b7232844b97
+1638346194561	Marionette	INFO	Listening on port 55550
+1638346194989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1638346196893	Marionette	INFO	Stopped listening on port 55550
+1638346225268	geckodriver	INFO	Listening on 127.0.0.1:55678
+1638346228306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55679" "-no-remote" "-profile" "C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileuim3xK"
+1638346228580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileuim3xK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55679/devtools/browser/b5b303bb-eabf-444f-96ff-f8e7102bb043
+1638346230227	Marionette	INFO	Listening on port 55686
+1638346230352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1638346232247	Marionette	INFO	Stopped listening on port 55686
+1638346297494	geckodriver	INFO	Listening on 127.0.0.1:55844
+1638346300574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55845" "-no-remote" "-profile" "C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileR6uBW0"
+1638346300839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileR6uBW0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55845/devtools/browser/e5440b88-d3f1-469d-a54e-98dc24b04aa9
+1638346302637	Marionette	INFO	Listening on port 55851
+1638346302724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1638346304546	Marionette	INFO	Stopped listening on port 55851
+[Parent 2448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1638346479695	geckodriver	INFO	Listening on 127.0.0.1:64254
+1638346482752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64255" "-no-remote" "-profile" "C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofilegMBG4J"
+1638346483025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofilegMBG4J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64255/devtools/browser/402f4679-2d16-4a16-ada5-e61e7c0f0aa5
+1638346484775	Marionette	INFO	Listening on port 64262
+1638346484813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+JavaScript error: https://in.search.yahoo.com/?fr2=inr, line 1: TypeError: YAHOO.LL is undefined
+1638346487217	Marionette	INFO	Stopped listening on port 64262
+1638346593857	geckodriver	INFO	Listening on 127.0.0.1:64446
+1638346596933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64447" "-no-remote" "-profile" "C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileEx6epR"
+1638346597220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofileEx6epR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64447/devtools/browser/8810ea8f-5854-4db5-9c33-d5be419ba2a4
+1638346598833	Marionette	INFO	Listening on port 64452
+1638346599003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638346601377	Marionette	INFO	Stopped listening on port 64452
+1638346640455	geckodriver	INFO	Listening on 127.0.0.1:64627
+1638346643532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64628" "-no-remote" "-profile" "C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofilelFqC4l"
+1638346643800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kisalay\\AppData\\Local\\Temp\\rust_mozprofilelFqC4l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64628/devtools/browser/29bb9004-02b1-446c-b623-7d99a3a2b8cd
+1638346645389	Marionette	INFO	Listening on port 64635
+1638346645558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638346647815	Marionette	INFO	Stopped listening on port 64635
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
